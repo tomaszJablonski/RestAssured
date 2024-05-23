@@ -1,0 +1,34 @@
+23:05:50.015 [main] DEBUG com.testng.restAssured.frameworkDevelopment.api.test.UserTests - DEBUGGING
+23:05:50.024 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** Creating User ******
+23:05:51.688 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** User is Creating ******
+23:05:51.695 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** Reading user info ******
+23:05:52.278 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** User info is Displayed ******
+23:05:52.279 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** Updating user ******
+23:05:52.844 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** User is Updated ******
+23:05:53.409 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** Deleting the User ******
+23:05:53.962 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** User is Deleting ******
+23:05:53.964 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** Creating User ******
+23:05:54.534 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** User is Creating ******
+23:05:54.536 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** Reading user info ******
+23:05:55.080 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** User info is Displayed ******
+23:05:55.081 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** Updating user ******
+23:05:55.640 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** User is Updated ******
+23:05:56.201 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** Deleting the User ******
+23:05:56.768 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** User is Deleting ******
+23:06:14.045 [main] DEBUG com.testng.restAssured.frameworkDevelopment.api.test.UserTests - DEBUGGING
+23:06:14.055 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** Creating User ******
+23:06:15.668 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** User is Creating ******
+23:06:15.677 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** Reading user info ******
+23:06:16.255 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** User info is Displayed ******
+23:06:16.256 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** Updating user ******
+23:06:16.824 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** User is Updated ******
+23:06:17.389 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** Deleting the User ******
+23:06:17.958 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** User is Deleting ******
+23:06:17.959 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** Creating User ******
+23:06:18.510 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** User is Creating ******
+23:06:18.512 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** Reading user info ******
+23:06:19.074 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** User info is Displayed ******
+23:06:19.074 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** Updating user ******
+23:06:19.625 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** User is Updated ******
+23:06:20.197 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** Deleting the User ******
+23:06:20.759 [main] INFO  com.testng.restAssured.frameworkDevelopment.api.test.UserTests - ***** User is Deleting ******
